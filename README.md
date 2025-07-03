@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello Conflict resolve
-=======
-conflict feature update
->>>>>>> feature-update
+Conflict Assignment By Mr Vivek Patil
