@@ -1,2 +1,2 @@
 hello feature update
-conflict
+conflict git
